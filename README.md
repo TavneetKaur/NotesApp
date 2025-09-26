@@ -23,3 +23,8 @@ This project is ideal for learning:
 2.Read and display all saved notes.
 
 3.Simple menu-driven console UI.
+
+Concepts Used: FileWriter, FileReader, BufferedReader, Exception Handling, Scanner
+
+Author 
+Tavneet Kaur
